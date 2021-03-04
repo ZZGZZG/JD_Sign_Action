@@ -1,5 +1,8 @@
 # 基于github action的京东自动化签到
 
+#手机登录京东获取cookie地址
+https://h5.m.jd.com/rn/2E9A2bEeqQqBP9juVgPJvQQq6fJ/index.html
+
 ## 介绍
 
 > 使用NobyDa “京东多合一签到脚本”为基础，移植到github actions自动化执行。
