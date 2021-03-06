@@ -1,7 +1,8 @@
 # 基于github action的京东自动化签到
 
 #手机登录京东获取cookie地址
-https://h5.m.jd.com/rn/2E9A2bEeqQqBP9juVgPJvQQq6fJ/index.html
+
+# https://h5.m.jd.com/rn/2E9A2bEeqQqBP9juVgPJvQQq6fJ/index.html
 
 ## 介绍
 
